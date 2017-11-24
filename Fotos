@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+	<head>
+			<title>Fotografias donde SIMAG a colaborado</title>
+			<meta charset="UTF-8">
+
+	
+	</head>
+	
+	<body>
+		<nav>
+		Fotos
+		
+			<a href="Index.html">Index</a> 
+			<a href="Distribucion.html">Distribucion</a> 
+			
+		</nav>
+		
+	<figure>
+		<img src="DJI_0048.JPG" width="550" height="398"></img>
+		<p>Proyecto de drenaje agricola Agroindustrial Piñas del Bosque S.A. Venecia. San Carlos</p>
+	</figure>
+	
+	<figure>
+		<img src="20171023_170723.JPG" width="550" height="398"></img>
+		<p>Proyecto de modelación hidraulica Latin America Timber Corporation. Sierpe. Osa</p>
+	</figure>
+	
+	
+	<figure>
+		<img src="DJI_0011.JPG" width="550" height="398"></img>
+		<p>Proyecto de drenaje agricola Agroindustrial Piñas del Bosque S.A. Pital. San Carlos</p>
+	</figure>
+	
+	<figure>
+		<img src="DJI_0020.JPG" width="550" height="398"></img>
+		<p>Proyecto de reconstrucción de vado de acceso Agroindustrial Piñas del Bosque S.A. Pital. San Carlos</p>
+	</figure>
